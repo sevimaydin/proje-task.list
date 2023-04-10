@@ -4,11 +4,11 @@
 ### Bu task list uygulaması aşağıdaki özelliklere sahiptir:
 
 - Kullanıcılar;
-   - yeni görevler ekleyebilirler.
-   - görevleri düzenleyebilirler.
-   - görevleri tamamlayabilir veya tamamlamadıklarını işaretleyebilirler.
-   - tamamlanmış görevleri silebilirler.
-   - tüm görevleri veya tamamlanmamış görevleri filtreleyebilirler.
+   - yeni görevler ekleyebilirler
+   - görevleri düzenleyebilirler
+   - görevleri tamamlayabilir veya tamamlamadıklarını işaretleyebilirler
+   - tamamlanmış görevleri silebilirler
+   - tüm görevleri veya tamamlanmamış görevleri filtreleyebilirler
 
 #### Önizleme
 ![](projeaktif.gif)
