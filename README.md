@@ -1,12 +1,15 @@
-<h1> javascript task-list <h2>
+# Task List Uygulaması
+- Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulan bir task list uygulamasıdır. Uygulama, kullanıcılara farklı görevleri eklemelerine ve tamamlamalarına olanak tanır.
 
-<p> Javascript kullanılarak oluşturulmuş görev listesi app <p>
+### Bu task list uygulaması aşağıdaki özelliklere sahiptir:
 
-<h2> Kullanılan teknolojiler<p>
+- Kullanıcılar;
+   - yeni görevler ekleyebilirler.
+   - görevleri düzenleyebilirler.
+   - görevleri tamamlayabilir veya tamamlamadıklarını işaretleyebilirler.
+   - tamamlanmış görevleri silebilirler.
+   - tüm görevleri veya tamamlanmamış görevleri filtreleyebilirler.
 
-<p>HTML, CSS ,JS <p>
-
-<h2> Ekran Görüntüsü <h2>
-
+#### Önizleme
 ![](projeaktif.gif)
 
